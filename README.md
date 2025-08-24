@@ -61,7 +61,7 @@ GROQ_API_KEY=your_groq_api_key
 
 -   Python 3.10+
 -   LangChain
--   ChromaDB
+-   LangChain Chroma
 -   HuggingFace Transformers
 -   Langchain-groq
 -   dotenv
